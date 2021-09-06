@@ -1,7 +1,7 @@
 # BikeSharing
 ## Overview
 ### Purpose
-The purpose of this project is to analyze the Citi Bike data from NYC and see if we can identify trends that could determine if the same system could be profitable in Des Moines. After using Pandas to format data types, Tableua was used to create a series of visualizations to demonstrate patterns in the data. Finally, those visualizations are placed into a Tableau Story to help tell the story behind the data.
+The purpose of this project is to analyze the Citi Bike data from NYC and see if we can identify trends that could determine if the same system could be profitable in Des Moines. After using Pandas to format data types, Tableau was used to create a series of visualizations to demonstrate patterns in the data. Finally, those visualizations are placed into a Tableau Story to help tell the story behind the data.
 ## Results
 ### Tableau Story Link
 [Click to view my Citi Bike Story](https://public.tableau.com/app/profile/clay.manwaring/viz/Challenge14_16239124089400/CitiBikeStory)
